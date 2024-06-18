@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://dev.to/tran-the-lam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tran-the-lam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22655124/tran-the-lam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22655124/tran-the-lam" height="30" width="40" /></a>
-<a href="https://fb.com/tranthelam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tranthelam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tranthelam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tranthelam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
